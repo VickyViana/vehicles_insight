@@ -11,8 +11,8 @@ print("""Choose the number of the option you need to know:
 	3 - Name of columns
 	4 - Type of columns
 	5 - Amount of Null values per column
-	6 - Minimun value
-	7 - Maximun value """)
+	6 - Minimun value in each column
+	7 - Maximun value in each column """)
 	
 choice = input("Please enter your option: ")
 options = ['1','2','3','4','5','6','7']
