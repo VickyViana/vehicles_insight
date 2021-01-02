@@ -32,11 +32,17 @@ Make sure to copy it in the correct folder
 4. Just follow the istructions showed in console: write the number of the option you want to be showed:
 
 	1 - Shape of dataframe
+	
 	2 - Number of rows 
+	
 	3 - Name of columns
+	
 	4 - Type of columns
+	
 	5 - Amount of Null values per column
+	
 	6 - Minimun value in each column
+	
 	7 - Maximun value in each column
 
 
