@@ -18,10 +18,9 @@ You just need to follow the instructions and ask for the data you need. I hope i
 
 This repository contains the dataframe 'vehicles.csv', with a lot of technical information of a huge list of existing vehicles. Working with a .csv file is difficult, thus an script has been created in order to visualize the dataframe information easily. 
 
----
 
 
-## **Steps to be followed**
+## Steps to be followed
 
 1. Clone this repository in your local. The way to do it is copying the URL of this repo and writting in your console the next sentence:
 	git clone URL_copied
